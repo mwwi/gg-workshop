@@ -10,7 +10,5 @@
 
 Jericho Opsima
 Mauie Avenido
-John Paul Pantojan
-Adrian Opsimar
-Cer Lisondato
+
 
